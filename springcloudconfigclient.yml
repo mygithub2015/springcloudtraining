@@ -1,4 +1,4 @@
 test:
-  message: XYZ
+  message: 123
 server:
   port: 0
